@@ -18,6 +18,12 @@ eval "$(ssh-agent -s)"
 ssh-add --apple-use-keychain ~/.ssh/personal
 ```
 
+# Ansible init
+```
+ansible-playbook ansible/basic.yml
+
+```
+
 # IDE init
 install Goland / Pycharm by toolbox
 https://www.jetbrains.com/toolbox-app/
