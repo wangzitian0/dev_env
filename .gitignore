@@ -1,7 +1,8 @@
 # Byte-compiled / optimized / DLL files
 .ssh/personal*
 .ssh/work*
-.ssh/known_hosts
+.ssh/known_hosts*
+.idea/*
 
 __pycache__/
 *.py[cod]
